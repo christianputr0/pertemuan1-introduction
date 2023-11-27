@@ -1,7 +1,0 @@
-x['nama']   = "Christian Putra"
-x['nim']    = "201440007"
-x['alamat'] = "Balikpapan"
-x['umur']   = "20"
-tinydict = {'nama': 'Christian Putra','nim':201440007, 'alamat': Balikpapan, 'umur': '20'}}
-(x.keys())
-(x.values())
